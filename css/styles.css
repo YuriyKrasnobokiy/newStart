@@ -1,0 +1,23 @@
+body {
+  background-color: tomato;
+}
+
+header {
+  background-color: rgb(15, 83, 228);
+}
+
+main {
+  background-color: rgb(54, 194, 11);
+}
+
+.list {
+  background-color: rgb(13, 219, 65);
+}
+
+.list2 {
+  background-color: rgb(107, 72, 72);
+}
+
+footer {
+  background-color: #fff;
+}
